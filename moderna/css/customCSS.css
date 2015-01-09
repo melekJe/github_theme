@@ -1,7 +1,7 @@
 
 /* CUSTOM CSS */
 .nav-custom{
-	margin: 1.5em 0px 0px;
+	margin: 0px 0px 0px;
 	padding: 0px;
 	border: 0px none;
 	vertical-align: baseline;
@@ -22,20 +22,20 @@
     opacity: 10;
     position: relative;
     top: 0px;
-    width: 5.35em;
+    width: 7.35em;
 }
 
 .nav-custom a:before {
     border-radius: 100%;
-    border: 1px solid #428BCA;
-    display: block;
-    font-size: 1.75em;
-    height: 2.5em;
-    line-height: 2.5em;
-    position: relative;
-    text-align: center;
-    top: 0px;
-    width: 2.5em;
+	border: 1px solid #428BCA;
+	display: block;
+	font-size: 1.75em;
+	height: 3.5em;
+	line-height: 3.5em;
+	position: relative;
+	text-align: center;
+	top: 0px;
+	width: 3.5em;
 }
 
 .nav-custom span{
