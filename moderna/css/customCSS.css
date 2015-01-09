@@ -1,0 +1,43 @@
+
+/* CUSTOM CSS */
+.nav-custom{
+	margin: 1.5em 0px 0px;
+	padding: 0px;
+	border: 0px none;
+	vertical-align: baseline;
+	cursor: default;
+	text-align: center;
+	display: block;
+	padding-bottom: 36px;
+}
+
+.nav-custom ul{
+	list-style: outside none none;
+}
+
+.nav-custom li {
+    display: inline-block;
+    height: 5.35em;
+    line-height: 5.885em;
+    opacity: 10;
+    position: relative;
+    top: 0px;
+    width: 5.35em;
+}
+
+.nav-custom a:before {
+    border-radius: 100%;
+    border: 1px solid #428BCA;
+    display: block;
+    font-size: 1.75em;
+    height: 2.5em;
+    line-height: 2.5em;
+    position: relative;
+    text-align: center;
+    top: 0px;
+    width: 2.5em;
+}
+
+.nav-custom span{
+	display: none;
+}
